@@ -1,0 +1,14 @@
+.navbar nav {
+    float: right;
+  }
+  .navbar a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+  
+  }
+  @media (prefers-reduced-motion: no-preference) {
+      * {
+        scroll-behavior: smooth;
+      }
+    }
